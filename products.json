@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Cricket Kit",
+        "price":12000,
+        "image": { "fields": { "file": { "url": "./images/picture4.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Cricket Bat - Wooden",
+        "price": 20000,
+        "image": { "fields": { "file": { "url": "./images/picture9.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "Tennis Ball - Lime",
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/picture6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Cricket Bat",
+        "price": 2299,
+        "image": { "fields": { "file": { "url": "./images/picture5.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Stamp - Blue",
+        "price": 899,
+        "image": { "fields": { "file": { "url": "./images/picture8.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Protective Gear - Red and Black",
+        "price": 399,
+        "image": { "fields": { "file": { "url": "./images/picture7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Fort Club Tennis Ball for All Court - 3 Pieces",
+        "price": 459,
+        "image": { "fields": { "file": { "url": "./images/picture6.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Cricket Ball",
+        "price": 399,
+        "image": { "fields": { "file": { "url": "./images/picture2.jpg" } } }
+      }
+    }
+  ]
+}
